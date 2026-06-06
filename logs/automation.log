@@ -1,0 +1,482 @@
+2026-06-05 00:12:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 00:16:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 00:18:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 00:18:10 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 00:18:10 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 00:18:10 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 00:18:10 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 00:18:13 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 00:18:13 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 00:23:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 00:23:29 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 00:23:29 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 00:23:29 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 00:23:29 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 00:23:32 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 00:23:32 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 00:23:34 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 00:23:34 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 00:23:34 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 00:23:34 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 00:23:34 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 00:23:35 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 00:25:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 00:25:20 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 00:25:20 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 00:25:20 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 00:25:20 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 00:25:22 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 00:25:32 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 00:25:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 00:26:01 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 00:26:02 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 00:26:02 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 00:26:02 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 00:26:02 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 00:26:02 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 00:31:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 00:31:13 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 00:31:13 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 00:31:13 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 00:31:13 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 00:31:14 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 00:31:14 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 00:33:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\crossbrowser.xml
+
+2026-06-05 00:34:00 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 00:34:00 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 00:34:01 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 00:34:01 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 00:34:01 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 00:34:02 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 00:34:06 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 00:34:06 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 00:34:07 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 00:34:07 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 00:34:07 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 00:34:07 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 00:36:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\crossbrowser.xml
+
+2026-06-05 00:36:38 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 00:36:38 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 00:36:38 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 00:36:38 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 00:36:39 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 00:36:39 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 00:36:39 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 00:36:39 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 00:36:39 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 00:36:39 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 00:36:40 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 00:36:40 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 14:14:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 14:14:45 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 14:14:45 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 14:14:46 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 14:14:46 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 14:14:46 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 14:14:48 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 14:14:48 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 14:14:48 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 14:14:49 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 14:14:49 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 14:14:50 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 14:14:50 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 14:14:50 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 14:14:50 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 14:14:51 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 14:14:51 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 14:14:52 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 14:15:02 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 14:15:02 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 14:15:02 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 14:15:03 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 14:15:03 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 14:15:10 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 14:15:11 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 14:15:11 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 14:15:11 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 14:15:11 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 14:15:11 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 14:15:11 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 14:15:23 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 16:16:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\grouping.xml
+
+2026-06-05 16:16:52 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 16:16:52 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 16:16:53 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 16:16:53 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 16:16:55 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 16:16:55 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 16:20:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\grouping.xml
+
+2026-06-05 16:20:54 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 16:20:54 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 16:20:54 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 16:20:54 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 16:20:55 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 16:20:56 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 16:21:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\grouping.xml
+
+2026-06-05 16:21:12 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 16:21:12 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 16:21:13 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 16:21:13 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 16:21:16 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 16:21:16 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 16:21:18 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 16:21:18 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 16:21:18 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 16:21:18 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 16:21:19 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 16:21:19 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 17:11:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 17:11:49 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 17:11:49 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 17:11:49 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 17:11:49 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 17:11:52 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 17:12:02 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 17:12:04 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 17:12:05 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 17:12:05 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 17:12:05 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 17:12:05 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 17:12:06 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 17:12:09 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 17:12:09 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 17:12:10 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 17:12:10 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 17:12:10 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 17:12:11 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 17:12:11 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 17:12:11 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 17:12:12 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 17:12:12 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 17:12:12 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 17:12:13 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 17:12:13 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 17:12:13 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 17:12:14 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 17:12:14 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 17:12:15 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 17:12:25 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 17:12:25 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 17:12:25 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 17:12:25 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 17:12:25 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 17:12:26 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 17:12:27 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 17:12:27 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 17:12:27 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 17:12:27 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 17:12:27 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 17:12:28 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 17:12:38 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 20:42:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 20:44:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 20:51:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 20:51:13 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 20:51:13 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 20:53:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 20:59:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 20:59:35 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 20:59:35 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 20:59:35 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 20:59:35 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 20:59:38 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 20:59:38 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 20:59:40 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 20:59:41 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 20:59:41 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 20:59:41 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 20:59:41 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 20:59:42 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 20:59:49 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 20:59:49 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 20:59:49 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 20:59:49 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 20:59:51 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 20:59:51 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 20:59:51 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 20:59:51 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 20:59:52 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 20:59:52 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 20:59:53 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 20:59:54 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 20:59:54 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 20:59:54 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 20:59:54 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 20:59:54 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 20:59:55 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:00:05 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:00:05 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:00:05 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:00:06 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:00:06 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:00:07 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:00:14 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:00:14 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:00:14 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:00:15 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:00:15 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:00:18 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:00:28 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:00:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 21:01:02 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 21:01:02 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 21:01:03 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 21:01:03 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 21:01:08 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 21:01:08 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 21:01:11 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 21:01:11 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 21:01:12 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 21:01:12 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 21:01:12 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 21:01:14 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 21:01:22 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:01:22 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:01:23 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:01:23 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:01:25 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:01:25 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:01:25 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:01:25 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:01:26 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:01:26 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:01:26 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:01:28 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:01:28 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:01:28 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:01:30 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:01:30 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:01:32 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:01:42 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:01:42 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:01:42 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:01:42 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:01:42 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:01:43 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:01:44 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:01:44 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:01:44 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:01:44 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:01:44 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:01:46 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:01:56 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:03:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 21:03:27 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 21:03:27 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 21:03:28 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 21:03:28 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 21:03:33 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 21:03:33 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 21:03:37 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 21:03:37 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 21:03:37 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 21:03:37 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 21:03:38 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 21:03:39 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 21:03:46 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:03:46 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:03:47 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:03:47 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:03:49 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:03:50 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:03:50 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:03:50 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:03:51 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:03:51 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:03:52 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:03:53 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:03:53 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:03:53 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:03:53 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:03:53 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:03:55 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:04:05 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:04:05 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:04:05 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:04:06 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:04:06 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:04:07 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:04:08 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:04:08 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 21:04:08 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 21:04:08 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 21:04:08 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 21:04:10 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 21:04:20 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 21:15:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\testng.xml
+
+2026-06-05 21:15:33 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 21:15:33 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 21:15:34 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 21:15:34 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 21:15:38 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 21:15:38 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 21:15:41 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 21:15:41 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 21:15:41 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 21:15:41 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 21:15:42 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 21:15:43 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 22:45:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\docker.xml
+
+2026-06-05 22:48:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\docker.xml
+
+2026-06-05 22:50:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\docker.xml
+
+2026-06-05 22:54:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\docker.xml
+
+2026-06-05 22:59:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\docker.xml
+
+2026-06-05 23:00:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\docker.xml
+
+2026-06-05 23:00:25 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 23:00:25 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 23:00:26 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 23:00:26 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 23:00:30 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 23:00:30 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 23:00:33 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 23:00:33 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 23:00:33 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 23:00:33 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 23:00:34 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 23:00:35 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 23:05:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\docker.xml
+
+2026-06-05 23:07:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sujan M V\eclipse-workspace\openkartApp\docker.xml
+
+2026-06-05 23:08:01 INFO  TC001_AccountRegisterationPage:13 - ********TC001 accountRegsteration started*******
+2026-06-05 23:08:01 INFO  TC001_AccountRegisterationPage:15 - its in HomePage
+2026-06-05 23:08:03 INFO  TC001_AccountRegisterationPage:20 - its in accountregpagePage
+2026-06-05 23:08:03 INFO  TC001_AccountRegisterationPage:23 - entering all fields
+2026-06-05 23:08:07 INFO  TC001_AccountRegisterationPage:34 - its validating msg
+2026-06-05 23:08:17 INFO  TC001_AccountRegisterationPage:38 - test passed
+2026-06-05 23:08:20 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 23:08:21 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 23:08:21 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 23:08:21 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 23:08:21 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 23:08:22 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 23:49:03 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:49:03 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:49:04 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:49:04 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:49:06 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:49:07 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:49:07 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:49:07 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:49:08 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:49:08 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:49:10 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:49:10 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:49:10 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:49:10 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:49:11 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:49:11 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:49:12 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:49:23 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:49:23 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:49:23 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:49:24 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:49:24 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:49:26 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:49:27 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:49:27 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:49:27 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:49:27 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:49:27 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:49:29 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:49:39 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:49:44 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 23:49:44 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 23:49:45 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 23:49:45 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 23:49:45 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 23:49:46 INFO  TC002_LoginTest:29 - validateing
+2026-06-05 23:51:03 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:51:03 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:51:04 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:51:04 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:51:06 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:51:07 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:51:07 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:51:07 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:51:08 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:51:08 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:51:09 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:51:10 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:51:10 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:51:10 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:51:11 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:51:11 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:51:12 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:51:23 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:51:23 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:51:23 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:51:24 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:51:24 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:51:24 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:51:26 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:51:26 INFO  TC003_login_DDT_Test:18 - *****TC003LoginDDtTest Started*****
+2026-06-05 23:51:26 INFO  TC003_login_DDT_Test:20 - click on homepage
+2026-06-05 23:51:27 INFO  TC003_login_DDT_Test:24 - clicked login button
+2026-06-05 23:51:27 INFO  TC003_login_DDT_Test:27 - entering credentials
+2026-06-05 23:51:28 INFO  TC003_login_DDT_Test:32 - its in myaccountpage validation
+2026-06-05 23:51:38 INFO  TC003_login_DDT_Test:67 - completed
+2026-06-05 23:51:42 INFO  TC002_LoginTest:13 - ********loginTest started*****
+2026-06-05 23:51:43 INFO  TC002_LoginTest:19 - click on myaccountpage
+2026-06-05 23:51:43 INFO  TC002_LoginTest:21 - click on loginpage
+2026-06-05 23:51:43 INFO  TC002_LoginTest:24 - entering credentilas
+2026-06-05 23:51:44 INFO  TC002_LoginTest:27 - enterd
+2026-06-05 23:51:45 INFO  TC002_LoginTest:29 - validateing

@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+   
+    <listeners>
+<listener class-name="utilities.ExtentReportManager"></listener>
+</listeners>
+
+    <test name="OpenKart Tests">
+     <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCase.TC002_LoginTest"/>
+            <class name="testCase.TC003_login_DDT_Test"/>
+        </classes>
+    </test>
+</suite>
